@@ -16,6 +16,12 @@ O repositório inclui:
 - análise de complexidade;
 - comparação de desempenho entre as abordagens.
 
+## Descrição do problema
+
+A descrição original do problema pode ser acessada em:
+
+[Link para a descrição do problema][https://drive.google.com/file/d/1axKOVpGF2CUqx5A_MGYx9h9zl9sw27zf/view?usp=sharing]
+
 ## Relatório
 
 O relatório completo do trabalho pode ser acessado em:
