@@ -20,7 +20,7 @@ O repositório inclui:
 
 O relatório completo do trabalho pode ser acessado em:
 
-👉 [Link para o relatório](https://drive.google.com/file/d/1axKOVpGF2CUqx5A_MGYx9h9zl9sw27zf/view?usp=sharing))
+[Link para o relatório](https://drive.google.com/file/d/1axKOVpGF2CUqx5A_MGYx9h9zl9sw27zf/view?usp=sharing)
 
 ## Tecnologias utilizadas
 
