@@ -20,7 +20,7 @@ O repositório inclui:
 
 A descrição original do problema pode ser acessada em:
 
-[Link para a descrição do problema][https://drive.google.com/file/d/1axKOVpGF2CUqx5A_MGYx9h9zl9sw27zf/view?usp=sharing]
+[Link para a descrição do problema](https://drive.google.com/file/d/1axKOVpGF2CUqx5A_MGYx9h9zl9sw27zf/view?usp=sharing)
 
 ## Relatório
 
